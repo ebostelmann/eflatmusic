@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>eflat page</title>
+		<link
+			rel="stylesheet"
+			href="C:\Users\evanb\Desktop\Evan\WEB2\eflatpage\style-template\eflatpage_styles_pageContainer.css"
+		/>
+		<link
+			rel="stylesheet"
+			href="C:\Users\evanb\Desktop\Evan\WEB2\eflatpage\style-template\eflatpage_styles_header.css"
+		/>
+		<link
+			rel="stylesheet"
+			href="C:\Users\evanb\Desktop\Evan\WEB2\eflatpage\eflatpage_contact\contact-styles-template\eflatpage_styles_main_contact1.css"
+		/>
+		<link
+			rel="stylesheet"
+			href="C:\Users\evanb\Desktop\Evan\WEB2\eflatpage\style-template\eflatpage_styles_footer.css"
+		/>
+		<link
+			href="https://fonts.googleapis.com/css?family=Cuprum"
+			rel="stylesheet"
+		/>
+	</head>
+	<body>
+		<main id="pageContainer">
+			<header class="page-header">
+				<div class="ph-left"><div class="page-logo"></div></div>
+				<div class="ph-nav">
+					<ul>
+						<li>
+							<a
+								href="C:\Users\evanb\Desktop\Evan\WEB2\eflatpage\eflatpage_projects\eflatpage_projects.htm"
+								>projects</a
+							>
+						</li>
+						<li>
+							<a
+								href="C:/Users/evanb/Desktop/Evan/WEB2/eflatpage/eflatpage_port/eflatpage_port_p1/eflatpage_port1.htm"
+								>portfolio</a
+							>
+						</li>
+						<li>
+							<a
+								href="file:C:/Users/evanb/Desktop/Evan/WEB2/eflatpage/eflatpage_contact/eflatpage_contact_p1/eflatpage_contact1.htm"
+								>contact</a
+							>
+						</li>
+					</ul>
+				</div>
+				<div class="ph-color-scheme-replace"></div>
+				<div class="ph-color-scheme">
+					<div class="paint-brush">
+						<div class="pb-icon">
+							<img src="images/Icon_MusicNote.svg" />
+						</div>
+						<div class="paint-brush-dropdown">
+							<div class="scheme">
+								<a href=""
+									><img src="images/Icon_MusicNote.svg"
+								/></a>
+							</div>
+							<div class="scheme">
+								<a href=""
+									><img src="images/Icon_MusicNote.svg"
+								/></a>
+							</div>
+							<div class="scheme">
+								<a href=""
+									><img src="images/Icon_MusicNote.svg"
+								/></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</header>
+			<div class="main">
+				<div class="contact-main">
+					<div class="contact-main-left">
+						<div class="cml-profile-pic-container">
+							<div class="cml-profile-pic"><img href="" /></div>
+						</div>
+					</div>
+
+					<div class="contact-main-mid">
+						<div class="cmm-profile-pic"><img href="" /></div>
+						<div class="cmm-profile-blurb">
+							<p>Lorem ipsum dolor sit amet</p>
+							<div class="cmm-contact-link">
+								<a
+									href="C:\Users\evanb\Desktop\Evan\WEB2\eflatpage\eflatpage_contact\eflatpage_contact_p2\eflatpage_contact2.htm"
+								>
+									<p>drop me a line.</p></a
+								>
+							</div>
+						</div>
+					</div>
+					<div class="contact-main-right">
+						<div class="cmr-profile-blurb-container">
+							<div class="cmr-profile-blurb">
+								<p>
+									Lorem ipsum dolor sit amet, consectetur
+									adipiscing elit. Phasellus ut leo eget
+									turpis sodales varius. Lorem ipsum dolor sit
+									amet, consectetur adipiscing elit. Integer
+									mattis ex ipsum, eu viverra nulla faucibus
+									ac. Nam dictum auctor ipsum vitae convallis.
+									Aliquam erat volutpat. Pellentesque
+									elementum augue eget felis accumsan
+									efficitur. Suspendisse condimentum fringilla
+									leo. Vestibulum suscipit tempus enim, a
+									dignissim orci cursus non. Morbi finibus dui
+									metus, sollicitudin pharetra arcu porta in.
+									Duis in mi non felis mattis eleifend. Proin
+									quis magna volutpat turpis placerat
+									consequat at a erat. Aliquam tincidunt dolor
+									a massa suscipit, nec eleifend neque cursus.
+									Quisque mollis ornare fringilla. Ut dapibus,
+									augue dapibus ornare malesuada, eros dui
+									semper elit, sed pellentesque mauris nulla
+									eu magna. Etiam vestibulum sapien sed lectus
+									facilisis tempus.
+								</p>
+							</div>
+							<div class="cmr-contact-link">
+								<a
+									href="C:\Users\evanb\Desktop\Evan\WEB2\eflatpage\eflatpage_contact\eflatpage_contact_p2\eflatpage_contact2.htm"
+								>
+									<p>drop me a line.</p>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<footer class="pageFooter">
+				<ul>
+					<li><strong>Company</strong></li>
+					<li><strong>Tutoring</strong></li>
+					<li><strong>Support</strong></li>
+					<li><strong>Follow</strong></li>
+				</ul>
+			</footer>
+		</main>
+	</body>
+</html>
