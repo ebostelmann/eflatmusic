@@ -1,1 +1,10 @@
+body {
+	height: 900px;
+	background-color: pink;
+}
+
+body .pageContainer {
+	height: 100%;
+	width: 100%;
+}
 
